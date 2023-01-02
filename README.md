@@ -1,5 +1,4 @@
-# Project dancify
-#[site link](https://dancify-react.netlify.app/)
+# Project dancify [site link](https://dancify-react.netlify.app/)
 
 Develop an elegant React.js Music Application. 
 
